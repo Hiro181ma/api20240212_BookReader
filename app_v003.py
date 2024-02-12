@@ -4,7 +4,6 @@ import re
 import requests
 from zipfile import ZipFile
 import io
-import requirements
 
 # 取り急ぎBookReaderのみの機能に絞って公開
 
