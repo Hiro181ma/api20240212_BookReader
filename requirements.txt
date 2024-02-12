@@ -1,5 +1,0 @@
-streamlit
-re
-requests
-zipfile
-io
