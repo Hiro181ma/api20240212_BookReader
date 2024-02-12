@@ -1,5 +1,4 @@
 import streamlit as st
-import spacy
 import re
 import requests
 from zipfile import ZipFile
